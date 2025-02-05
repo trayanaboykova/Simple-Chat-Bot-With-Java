@@ -5,113 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4085f003-9e4c-42b1-a800-7903b44c94c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.10/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/classes/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/classes/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/classes/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/annotationProcessor/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/annotationProcessor/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/annotationProcessor/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/headers/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-headers-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/headers/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/generated/sources/headers/java/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/reports/tests/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/reports/tests/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/reports/tests/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/test-results/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/test-results/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/test-results/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/tmp/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/tmp/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/build/tmp/Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple-Chat-Bot-With-Java.util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple-Chat-Bot-With-Java.util.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple-Chat-Bot-With-Java.util.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/main/bot/SimpleBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Clue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/classes/Tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/TEST-Tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/compileTransaction/stash-dir/SimpleBot.class.uniqueId0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileTestJava/compileTransaction/stash-dir/Tests.class.uniqueId0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/test/jar_extract_3024030580203241700_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/test/jar_extract_5246030207467074700_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/test/jar_extract_6006784620638079414_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/out/production/classes/bot/SimpleBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Simple-Chat-Bot-With-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Simple-Chat-Bot-With-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/Introduce yourself/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Introduce yourself/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/Let the chat bot guess your age/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Let the chat bot guess your age/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/Meet your chat bot/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Meet your chat bot/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/lesson-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,17 +53,29 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Find X/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2sd6XQj1sctS4AI7n24cgRgkzt3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.SimpleBot.executor": "Run",
+    "Application.Task (1).executor": "Run",
+    "Application.Task.executor": "Run",
     "Edu.LearningObjectsStorageType": "SQLite",
     "Edu.Yaml.Migrate": "true",
     "Gradle.Tests in 'Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.test'.executor": "Run",
@@ -167,23 +91,49 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
-      <module name="Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Find_X.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Evaluate_an_expression.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Celsius_to_Fahrenheit.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Determine_the_result.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-What_is_the_value.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Task (1)" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +150,7 @@
     <taskDatabasesInitialized>
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Introduce yourself/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Let the chat bot guess your age/db/db" />
+      <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Meet your chat bot/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Teach your bot to count/db/db" />
     </taskDatabasesInitialized>
   </component>
@@ -210,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738773143753</updated>
-      <workItem from="1738773145806" duration="1887000" />
+      <workItem from="1738773145806" duration="2542000" />
     </task>
     <servers />
   </component>
