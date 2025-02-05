@@ -17,13 +17,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/What is the value/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Boolean type and operations. True and false/The result of an expression/answer.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -72,6 +68,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SimpleBot.executor": "Run",
     "Application.Task (1).executor": "Run",
@@ -91,7 +89,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Find_X.main" />
@@ -106,9 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-Celsius_to_Fahrenheit.main" />
+      <module name="Simple-Chat-Bot-With-Java.Topics-Boolean_type_and_operations._True_and_false-Is_it_a_Beach_Day__Check_the_Skies.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,20 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task" />
-      <module name="Simple-Chat-Bot-With-Java.Topics-Floating-point_types-What_is_the_value.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Task (1)" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738773143753</updated>
-      <workItem from="1738773145806" duration="2542000" />
+      <workItem from="1738773145806" duration="3576000" />
     </task>
     <servers />
   </component>
