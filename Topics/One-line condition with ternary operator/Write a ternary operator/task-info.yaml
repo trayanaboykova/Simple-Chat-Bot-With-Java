@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "int d = a + b == c ? 10 : c;"
+  - text: "int d = c : 10 ? a + b == c;"
+  - text: "int d = a + b != c ? 10 : c;"
+  - text: "int d = a + b == c ? c : a + b;"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3268#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 06 Feb 2025 07:50:52 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

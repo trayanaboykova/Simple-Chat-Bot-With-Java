@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: condition <b>?</b> trueCase <b>:</b> elseCase<b>;</b>
+  - text: <b>if</b> condition <b>?</b> trueCase <b>else</b> elseCase<b>;</b>
+  - text: trueCase <b>:</b> elseCase <b>?</b> condition<b>;</b>
+  - text: <b>if</b> condition <b>?</b> trueCase <b>:</b> elseCase<b>;</b>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3275#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 06 Feb 2025 07:54:37 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -21,6 +22,18 @@
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Is it a Beach Day  Check the Skies" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers inputted by user" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Define the conditions" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
@@ -28,6 +41,13 @@
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Statements" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the value" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Correct general syntax" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Cracking the discount code conundrum" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining if an integer is odd or even" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Double ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

@@ -1,3 +1,6 @@
 content:
   - Floating-point types
   - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
