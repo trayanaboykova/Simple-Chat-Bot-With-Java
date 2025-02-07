@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
+  - text: "int d = a + b == c ? c : a + b;"
   - text: "int d = a + b == c ? 10 : c;"
   - text: "int d = c : 10 ? a + b == c;"
   - text: "int d = a + b != c ? 10 : c;"
-  - text: "int d = a + b == c ? c : a + b;"
 files:
   - name: src/Task.java
     visible: true
