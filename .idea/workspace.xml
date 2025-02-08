@@ -14,19 +14,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/The result of an expression/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/The result of an expression/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Conditional statement/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Conditional statement/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Conditional statement/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Conditional statement/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Floating-point types/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Floating-point types/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/Play a simple quiz together/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Play a simple quiz together/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/Teach your bot to count/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Teach your bot to count/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/main/bot/SimpleBot.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/main/bot/SimpleBot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Clue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Clue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java/test/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/classes/Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/classes/Tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/TEST-Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/TEST-Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/compileTransaction/stash-dir/SimpleBot.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/compileTransaction/stash-dir/SimpleBot.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileTestJava/compileTransaction/stash-dir/Tests.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/src/bot/SimpleBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/task/test/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/For loop/Grades/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/For loop/Grades/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/For loop/Number detective seeks elusive primes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/For loop/Number detective seeks elusive primes/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +114,13 @@
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Floating-point types/What is the value/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/For loop/From sum to product/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/For loop/Grades/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/For loop/Number detective seeks elusive primes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/For loop/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/For loop/Summoning the special numbers/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/For loop/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/One-line condition with ternary operator/Correct general syntax/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/One-line condition with ternary operator/Cracking the discount code conundrum/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining if an integer is odd or even/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -154,7 +168,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.SimpleBot">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple-Chat-Bot-With-Java.Topics-For_loop-The_sum_of_integers_from_a_to_b.main" />
@@ -183,20 +197,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple-Chat-Bot-With-Java.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" />
+    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
+      <module name="Simple-Chat-Bot-With-Java.Simple_Chat_Bot_with_Java-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleBot" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +234,7 @@
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Introduce yourself/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Let the chat bot guess your age/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Meet your chat bot/db/db" />
+      <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Play a simple quiz together/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Simple-Chat-Bot-With-Java/Simple Chat Bot with Java/Teach your bot to count/db/db" />
     </taskDatabasesInitialized>
   </component>
@@ -228,6 +249,7 @@
       <workItem from="1738825221688" duration="3243000" />
       <workItem from="1738924069640" duration="1000" />
       <workItem from="1738924090413" duration="2605000" />
+      <workItem from="1739015561215" duration="1478000" />
     </task>
     <servers />
   </component>
